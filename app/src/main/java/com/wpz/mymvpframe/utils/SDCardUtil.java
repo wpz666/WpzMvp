@@ -6,7 +6,7 @@ import android.os.StatFs;
 import java.io.File;
 
 /**
- * Created by qizepu on 2017/2/22.
+ * Created by wpz on 2017/2/22.
  */
 
 public class SDCardUtil {

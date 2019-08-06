@@ -1,7 +1,7 @@
 package com.wpz.mymvpframe.base;
 
 /**
- * Created by qizepu on 2017/5/17.
+ * Created by wpz on 2017/5/17.
  *
  * 所有的接口都继承这个接口
  */

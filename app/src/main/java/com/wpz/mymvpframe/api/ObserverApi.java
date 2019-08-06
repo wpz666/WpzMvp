@@ -14,7 +14,7 @@ import io.reactivex.Observer;
 import io.reactivex.disposables.Disposable;
 
 /**
- * Created by qizepu on 2017/5/17.
+ * Created by wpz on 2017/5/17.
  */
 
 public abstract class ObserverApi<T> implements Observer<T> {

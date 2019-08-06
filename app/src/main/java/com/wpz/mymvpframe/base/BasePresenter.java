@@ -4,7 +4,7 @@ import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.disposables.Disposable;
 
 /**
- * Created by qizepu on 2017/5/17.
+ * Created by wpz on 2017/5/17.
  *
  * 定义两个方法  一个绑定view  一个解除绑定
  */

@@ -1,7 +1,7 @@
 package com.wpz.mymvpframe.api;
 
 /**
- * Created by qizepu on 2017/5/17.
+ * Created by wpz on 2017/5/17.
  * 异常类
  */
 

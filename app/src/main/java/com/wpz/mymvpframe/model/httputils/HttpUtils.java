@@ -7,7 +7,7 @@ import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * Created by qizepu on 2017/5/17.
+ * Created by wpz on 2017/5/17.
  */
 
 public class HttpUtils {

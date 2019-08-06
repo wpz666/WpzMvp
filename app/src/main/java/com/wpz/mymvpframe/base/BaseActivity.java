@@ -8,7 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import com.wpz.mymvpframe.application.MyApplication;
 
 /**
- * Created by qizepu on 2017/5/17.
+ * Created by wpz on 2017/5/17.
  */
 
 public abstract class BaseActivity<T extends BasePresenter> extends AppCompatActivity implements BaseView{

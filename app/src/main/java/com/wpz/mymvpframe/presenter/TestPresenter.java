@@ -10,7 +10,7 @@ import com.wpz.mymvpframe.model.httputils.HttpUtils;
 import com.wpz.mymvpframe.view.iview.ITestView;
 
 /**
- * Created by qizepu on 2017/5/17.
+ * Created by wpz on 2017/5/17.
  */
 
 public class TestPresenter extends BasePresenter<ITestView>{
