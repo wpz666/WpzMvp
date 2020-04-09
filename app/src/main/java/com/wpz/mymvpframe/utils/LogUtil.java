@@ -3,7 +3,7 @@ package com.wpz.mymvpframe.utils;
 import android.util.Log;
 
 /**
- * Created by qizpeu on 2017/2/22.
+ * Created by wpz on 2017/2/22.
  */
 
 public class LogUtil {

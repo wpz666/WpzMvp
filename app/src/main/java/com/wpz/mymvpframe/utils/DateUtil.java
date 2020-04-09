@@ -10,7 +10,7 @@ import java.util.Date;
 import static java.lang.System.currentTimeMillis;
 
 /**
- * Created by qizpeu on 2017/2/22.
+ * Created by wpz on 2017/2/22.
  */
 
 public class DateUtil {
